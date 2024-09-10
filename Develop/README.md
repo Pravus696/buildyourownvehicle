@@ -27,7 +27,7 @@ Download the code. Open it up in your terminal. Ensure you have the proper packa
 
 ## Usage
 
-Once you have the file installed and proper packages to run the program. Open the folder in your terminal and run `npm start`.
+Please was this [video](https://drive.google.com/file/d/1fZ5ONX4Dgy-xNaAMmtzQpM527oJFgv6M/view) to understand how to use the project.
 
 ## License
 
